@@ -1,0 +1,1 @@
+Python text message automator for Mac iOS that puts each message into Messages for review and send. Useful if you have a large number of pre-written messages to send to a list of phone numbers. You will have to select Send as Text Message when it fails to send for non-iPhone users.
